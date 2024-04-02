@@ -4,6 +4,5 @@
     <label>PsgManaged</label>
     <permissionSets>packocz__CustomAppManaged</permissionSets>
     <permissionSets>packocz__CustomObjectManaged</permissionSets>
-    <permissionSets>packocz__StandardManaged</permissionSets>
     <status>Updated</status>
 </PermissionSetGroup>

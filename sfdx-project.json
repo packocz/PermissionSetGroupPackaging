@@ -7,24 +7,24 @@
 		{
 			"path": "src/psg-managed",
 			"package": "psg-managed",
-			"versionName": "ver 0.1",
-			"versionNumber": "0.1.0.NEXT",
+			"versionName": "ver 0.2",
+			"versionNumber": "0.2.0.NEXT",
 			"default": false,
 			"versionDescription": ""
 		},
 		{
 			"path": "src/psg-unlocked-namespace",
 			"package": "psg-unlocked-namespace",
-			"versionName": "ver 0.1",
-			"versionNumber": "0.1.0.NEXT",
+			"versionName": "ver 0.2",
+			"versionNumber": "0.2.0.NEXT",
 			"default": false,
 			"versionDescription": ""
 		},
 		{
 			"path": "src/psg-unlocked",
 			"package": "psg-unlocked",
-			"versionName": "ver 0.1",
-			"versionNumber": "0.1.0.NEXT",
+			"versionName": "ver 0.2",
+			"versionNumber": "0.2.0.NEXT",
 			"default": false,
 			"versionDescription": ""
 		},
@@ -43,7 +43,10 @@
 		"psg-unlocked-namespace": "0Ho08000000PAx3CAG",
 		"psg-unlocked": "0Ho08000000PAx8CAG",
 		"psg-unlocked@0.1.0-1": "04t08000000UJztAAG",
+		"psg-unlocked@0.2.0-1": "04t08000000UK0IAAW",
+		"psg-unlocked-namespace@0.1.0-1": "04t08000000UK03AAG",
+		"psg-unlocked-namespace@0.2.0-1": "04t08000000UK08AAG",
 		"psg-managed@0.1.0-1": "04t08000000UJzyAAG",
-		"psg-unlocked-namespace@0.1.0-1": "04t08000000UK03AAG"
+		"psg-managed@0.2.0-1": "04t08000000UK0DAAW"
 	}
 }

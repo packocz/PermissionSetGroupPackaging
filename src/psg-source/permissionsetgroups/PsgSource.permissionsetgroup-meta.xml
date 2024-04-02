@@ -4,6 +4,5 @@
     <label>PsgSource</label>
     <permissionSets>CustomAppSource</permissionSets>
     <permissionSets>CustomObjectSource</permissionSets>
-    <permissionSets>StandardSource</permissionSets>
     <status>Updated</status>
 </PermissionSetGroup>

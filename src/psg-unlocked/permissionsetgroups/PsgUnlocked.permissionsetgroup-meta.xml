@@ -4,6 +4,5 @@
     <label>PsgUnlocked</label>
     <permissionSets>CustomAppUnlocked</permissionSets>
     <permissionSets>CustomObjectUnlocked</permissionSets>
-    <permissionSets>StandardUnlocked</permissionSets>
     <status>Updated</status>
 </PermissionSetGroup>
