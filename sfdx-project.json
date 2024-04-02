@@ -3,11 +3,47 @@
 		{
 			"path": "src-temp",
 			"default": true
+		},
+		{
+			"path": "src/psg-managed",
+			"package": "psg-managed",
+			"versionName": "ver 0.1",
+			"versionNumber": "0.1.0.NEXT",
+			"default": false,
+			"versionDescription": ""
+		},
+		{
+			"path": "src/psg-unlocked-namespace",
+			"package": "psg-unlocked-namespace",
+			"versionName": "ver 0.1",
+			"versionNumber": "0.1.0.NEXT",
+			"default": false,
+			"versionDescription": ""
+		},
+		{
+			"path": "src/psg-unlocked",
+			"package": "psg-unlocked",
+			"versionName": "ver 0.1",
+			"versionNumber": "0.1.0.NEXT",
+			"default": false,
+			"versionDescription": ""
+		},
+		{
+			"path": "src/psg-source",
+			"package": "psg-source",
+			"default": false
 		}
 	],
-	"name": "sfxx",
-	"namespace": "",
+	"name": "sfdx",
+	"namespace": "packocz",
 	"sfdcLoginUrl": "https://login.salesforce.com",
 	"sourceApiVersion": "60.0",
-	"packageAliases": {}
+	"packageAliases": {
+		"psg-managed": "0Ho08000000PAwyCAG",
+		"psg-unlocked-namespace": "0Ho08000000PAx3CAG",
+		"psg-unlocked": "0Ho08000000PAx8CAG",
+		"psg-unlocked@0.1.0-1": "04t08000000UJztAAG",
+		"psg-managed@0.1.0-1": "04t08000000UJzyAAG",
+		"psg-unlocked-namespace@0.1.0-1": "04t08000000UK03AAG"
+	}
 }
