@@ -10,7 +10,8 @@
 			"versionName": "ver 0.2",
 			"versionNumber": "0.2.0.NEXT",
 			"default": false,
-			"versionDescription": ""
+			"versionDescription": "",
+			"ancestorVersion": "0.1.0.RELEASED"
 		},
 		{
 			"path": "src/psg-unlocked-namespace",
@@ -46,7 +47,7 @@
 		"psg-unlocked@0.2.0-1": "04t08000000UK0IAAW",
 		"psg-unlocked-namespace@0.1.0-1": "04t08000000UK03AAG",
 		"psg-unlocked-namespace@0.2.0-1": "04t08000000UK08AAG",
-		"psg-managed@0.1.0-1": "04t08000000UJzyAAG",
-		"psg-managed@0.2.0-1": "04t08000000UK0DAAW"
+		"psg-managed@0.1.0-2": "04t08000000UK29AAG",
+		"psg-managed@0.2.0-2": "04t08000000UK2EAAW"
 	}
 }
