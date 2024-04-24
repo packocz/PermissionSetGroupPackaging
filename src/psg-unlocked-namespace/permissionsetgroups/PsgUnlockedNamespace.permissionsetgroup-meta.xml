@@ -2,6 +2,7 @@
 <PermissionSetGroup xmlns="http://soap.sforce.com/2006/04/metadata">
     <hasActivationRequired>false</hasActivationRequired>
     <label>PsgUnlockedNamespace</label>
+    <permissionSets>packocz__CustomAppUnlockedNamespace</permissionSets>
     <permissionSets>packocz__CustomObjectUnlockedNamespace</permissionSets>
     <status>Updated</status>
 </PermissionSetGroup>
