@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <PermissionSetGroup xmlns="http://soap.sforce.com/2006/04/metadata">
     <hasActivationRequired>false</hasActivationRequired>
-    <label>PsgManaged</label>
-    <permissionSets>packocz__CustomObjectManaged</permissionSets>
+    <label>PsgUnlockedNamespace</label>
+    <permissionSets>packocz__CustomAppUnlockedNamespace</permissionSets>
+    <permissionSets>packocz__CustomObjectUnlockedNamespace</permissionSets>
     <status>Updated</status>
 </PermissionSetGroup>
