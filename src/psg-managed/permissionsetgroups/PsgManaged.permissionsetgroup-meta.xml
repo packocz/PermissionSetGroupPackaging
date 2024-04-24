@@ -2,7 +2,6 @@
 <PermissionSetGroup xmlns="http://soap.sforce.com/2006/04/metadata">
     <hasActivationRequired>false</hasActivationRequired>
     <label>PsgManaged</label>
-    <permissionSets>packocz__CustomAppManaged</permissionSets>
     <permissionSets>packocz__CustomObjectManaged</permissionSets>
     <status>Updated</status>
 </PermissionSetGroup>
